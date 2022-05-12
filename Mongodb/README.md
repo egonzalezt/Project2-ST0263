@@ -216,7 +216,7 @@ bye
 Now add the user who manage the bookstore schema
 
 ```bash
-admin@ip-172-31-31-50:~$ mongo -u suproyecto2 -p mimejorproyecto2telematica
+admin@ip-x-x-x-x:~$ mongo -u youradminusedr -p yourbestpassword
 ```
 
 ```mongo
