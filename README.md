@@ -1,4 +1,19 @@
 # Project2-ST0263
+The topic or problem context will be to design and implement the BookStore application towards a scalable and robust environment.
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#project-design">Project Design</a></li>
+    <li><a href="#loadbalancers">LoadBalancers</a></li>   
+    <li><a href="#vpc">VPC</a></li>   
+    <li><a href="#dns">DNS</a></li>   
+    <li><a href="#mongodb">Database</a></li>   
+    <li><a href="#front--back">Front&Back</a></li>   
+    <li><a href="#stimated-price">Stimated Price</a></li>   
+  </ol>
+</details>
+
 
 ## Project Design
 ![AWS BOOKSTORE drawio](https://user-images.githubusercontent.com/53051438/168496460-32605341-8517-40b0-b1a9-aa1eb8554d5f.png)
