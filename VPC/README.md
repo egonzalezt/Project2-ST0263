@@ -1,6 +1,6 @@
 ## **Create and configure the VPC**    
 
-We create a VPC called VPC-BS with address block 172.16.0.0/24, with: 
+We create a VPC called VPC-BS with address block `172.16.0.0/24`, with: 
 * 2 Availability Zones 
 * 2 NAT Gateways (1 per Availability Zone) 
 * 2 Public subnets (with block `172.16.1.0 /24` and `172.16.4.0 /24`, 1 for each Availability Zone)  
