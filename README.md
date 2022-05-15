@@ -1,7 +1,7 @@
 # Project2-ST0263
 
 ## Project Design
-![Design](https://user-images.githubusercontent.com/53051438/168380131-830aeb02-4375-4d5e-b6e9-885fd4b5c5ae.jpeg)
+![AWS BOOKSTORE drawio](https://user-images.githubusercontent.com/53051438/168496460-32605341-8517-40b0-b1a9-aa1eb8554d5f.png)
 
 ### LoadBalancers
 
