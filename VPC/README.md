@@ -22,7 +22,7 @@ We created a Security Group called SG-Bastion associated to the VPC-BS, and adde
 ### **Create and configure security group for Front-Back**  
 
 We create a Security Group called SG-Front (we call it that but we use it for both the Front and Back instances) associated with the VPC-BS, and we add two new rules:
-* The first with HTTP type, custom source with address `172.16. 1.0/24` (to receive communication from the Load Balancer located in that subnet)
+* The first with HTTP type, custom source with address `172.16.1.0/24` (to receive communication from the Load Balancer located in that subnet)
 * The second with SSH type, custom source with address `172.16.1.0/24` (to receive communication from the Bastion Host located in that subnet).  
 
 ![unknown](https://user-images.githubusercontent.com/53051430/168497508-1fc9e9f4-15bb-4d32-b1aa-ff8dcdb8a9e4.png)
