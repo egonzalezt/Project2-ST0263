@@ -6,15 +6,33 @@
 
 ### LoadBalancers
 
-### AMIs
+Visit how team implements LoadBalancers
 
-### AutoScallingGroup
+[LoadBalancer setup](https://github.com/egonzalezt/Project2-ST0263/blob/df82f0231f6a5c225899e310b58fbed679bf6e4a/Load%20Balancers/README.md) 
 
-### CloudFlare
+### VPC
 
-### Database
+Visit how team implements Virtual Private Cloud
+
+[VPC setup](https://github.com/egonzalezt/Project2-ST0263/blob/df82f0231f6a5c225899e310b58fbed679bf6e4a/VPC/README.md) 
+
+### DNS
+
+Visit how team implements DNS
+
+[DNS setup](https://github.com/egonzalezt/Project2-ST0263/blob/df82f0231f6a5c225899e310b58fbed679bf6e4a/dns/README.md) 
+
+### Mongodb
+
+Visit how team implements Mongodb
+
+[Database setup](https://github.com/egonzalezt/Project2-ST0263/blob/df82f0231f6a5c225899e310b58fbed679bf6e4a/Mongodb/README.md) 
 
 ### Front & Back
+
+For this project the code that the team implements was the same for the Challenge 2 - ST0263.
+
+[Code repo](https://github.com/egonzalezt/Lab3-ST0263) 
 
 ## Stimated price
 
