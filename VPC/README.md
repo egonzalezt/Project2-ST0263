@@ -7,7 +7,10 @@ We create a VPC called VPC-BS with address block `172.16.0.0/24`, with:
 * 4 Private subnets (with block `172.16.2.0 /24`, `172.16.3.0 /24` for Availability Zone 1 and with block `172.16.5.0 /24`, `172.16.6.0 /24` for Availability Zone 2)
 *  No VPC endpoints.  
 
-![image](https://user-images.githubusercontent.com/53051430/168497707-0f33d874-a1e1-4b7c-a35e-aecfdc83d2e0.png)
+![image](https://user-images.githubusercontent.com/53051430/168497834-f9552956-3eb5-490a-b1fa-fb061bf47559.png)
+![image](https://user-images.githubusercontent.com/53051430/168497722-bbf81580-d8e9-4b04-96d5-1c22a0095664.png)
+
+
 
 
 ### **Create and configure security group for the Bastion Host**  
