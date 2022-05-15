@@ -254,6 +254,11 @@ Successfully added user: {
 myreplicasetname:PRIMARY> exit
 bye
 ```
+## Setup MongoConnection for Mongoose
+
+To connect to mongodb please go to [Setup VPC](https://github.com/egonzalezt/Project2-ST0263/tree/main/VPC) when VPC is ready add to your code the connection url for mongodb
+
+`mongodb://yourbookstoreadmin:yoursupersecretpassword@<PrimaryIP>:27017,<SecondaryIP>:27017,<SecondaryIP>:27017/?authSource=bookstore&replicaSet=myreplicasetname`
 
 ## Results
 
