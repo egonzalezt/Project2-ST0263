@@ -14,3 +14,11 @@
 ### Database
 
 ### Front & Back
+
+## Stimated price
+
+For the project AWS provide a website to stimate prices [AWS Price Stimate Website](https://calculator.aws/#/) 
+
+### Stimated price for the bookstore
+
+[Estimated price provided by AWS](https://calculator.aws/#/estimate?id=c67ae23c8369e2e3300816fa7dea938ad5615a43) 
