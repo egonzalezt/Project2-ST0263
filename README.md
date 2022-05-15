@@ -2,6 +2,7 @@
 
 ## Project Design
 ![AWS BOOKSTORE drawio](https://user-images.githubusercontent.com/53051438/168496460-32605341-8517-40b0-b1a9-aa1eb8554d5f.png)
+[High res-image](https://github.com/egonzalezt/Project2-ST0263/blob/main/AWS_Schema/AWS%20BOOKSTORE%20ARCHI.png) 
 
 ### LoadBalancers
 
