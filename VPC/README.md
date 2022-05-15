@@ -14,14 +14,14 @@ We created a Security Group called SG-Bastion associated to the VPC-BS, and adde
 ### **Create and configure security group for Front-Back**  
 
 We create a Security Group called SG-Front (we call it that but we use it for both the Front and Back instances) associated with the VPC-BS, and we add two new rules:
-* The first with HTTP type, custom source with address 172.16. 1.0/24 (to receive communication from the Load Balancer located in that subnet)
-* The second with SSH type, custom source with address 172.16.1.0/24 (to receive communication from the Bastion Host located in that subnet).  
+* The first with HTTP type, custom source with address `172.16. 1.0/24` (to receive communication from the Load Balancer located in that subnet)
+* The second with SSH type, custom source with address `172.16.1.0/24` (to receive communication from the Bastion Host located in that subnet).  
 
 ### **Create and configure security group for Mongo**  
 
 We create a Security Group called SG-MongoDB associated to the VPC-BS, and we add six new rules:
-* The first 4 with type custom TCP, custom source with address 172.16.2.0/24 and 172.16.5.0/24, (to receive the communication coming from the Back located in those subnets) and 172.16.3.0/24 and 172.16.4.0/24 (to receive the communication coming from the MongoDB instances located in those subnets)
-*  The other two with SSH type, custom source with address 172.16 .1.0/24 and 172.16.4.0/24 (to receive communication from Bastion Hosts located in each Availability Zone).  
+* The first 4 with type custom TCP, custom source with address `172.16.2.0/24` and `172.16.5.0/24`, (to receive the communication coming from the Back located in those subnets) and `172.16.3.0/24` and `172.16.4.0/24` (to receive the communication coming from the MongoDB instances located in those subnets)
+*  The other two with SSH type, custom source with address `172.16.1.0/24` and `172.16.4.0/24` (to receive communication from Bastion Hosts located in each Availability Zone).  
 
 ### **Create and configure security group for Mongo**    
 
