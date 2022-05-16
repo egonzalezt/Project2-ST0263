@@ -82,8 +82,8 @@ admin@ip-172-31-31-50:~$ ls -l /etc/mongod-key
 **Give permissions to mongodb**
 
 ```bash
-sudo chown -R mongodb /etc/mongo-key
-sudo systemctl restart
+sudo chown -R mongodb /etc/mongod-key
+sudo systemctl restart mongod
 sudo systemctl status mongod
 ```
 ![image](https://user-images.githubusercontent.com/53051438/167985225-73136afc-0122-43fa-8262-76960a2a0089.png)
