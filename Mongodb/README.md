@@ -198,7 +198,7 @@ admin@ip-x-x-x-x:~$ mongo -u youradminusedr -p yourbestpassword
 ...         members: [
 ...             {
 ...                 _id: 0,
-...                 host: "<PrincilReplicaIP>:27017"
+...                 host: "<PrimaryReplicaIP>:27017"
 ...             }, { 
 ...                 _id: 1,
 ...                 host: "<SecondaryReplicaIP>:27017"
