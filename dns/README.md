@@ -56,6 +56,7 @@ This is intentional because we couldn't manage to get a SSL certificate for the 
 ## 7. Final page with the SSL certificate
  
 ![image](https://user-images.githubusercontent.com/53226911/168495210-8f649447-39f4-4675-9951-36a9586e116f.png)
+![image](https://user-images.githubusercontent.com/53051438/169552786-5b2af6d5-094f-4bf8-98c1-787b17e06bb2.png)
 
  
 
