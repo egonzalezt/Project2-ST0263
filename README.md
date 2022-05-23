@@ -1,6 +1,8 @@
 # Project2-ST0263
 The topic or problem context will be to design and implement the BookStore application towards a scalable and robust environment.
 
+[View Documentation](https://egonzalezt.github.io/Project2-ST0263/) 
+
 **Team Members**
 
 * Juan Diego Mejia Vargas [![GitHub-Mark-Light-32px](https://user-images.githubusercontent.com/53051438/128283510-7d92c6a9-9c3e-4b22-b1ce-7786d951ef65.png)](https://github.com/jdmejiav) jdmejiav@eafit.edu.co
