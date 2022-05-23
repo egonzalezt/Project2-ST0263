@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_2=self.webpackChunkproject_2||[]).push([[29],{2637:function(e){e.exports=JSON.parse('{"label":"Project2-ST0263","permalink":"/Project2-ST0263/blog/tags/project-2-st-0263","allTagsPath":"/Project2-ST0263/blog/tags","count":1}')}}]);

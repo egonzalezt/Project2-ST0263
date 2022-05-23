@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_2=self.webpackChunkproject_2||[]).push([[488],{1578:function(e){e.exports=JSON.parse('{"permalink":"/Project2-ST0263/blog/tags/aws","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

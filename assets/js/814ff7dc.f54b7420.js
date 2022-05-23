@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_2=self.webpackChunkproject_2||[]).push([[446],{25:function(e){e.exports=JSON.parse('[{"label":"AWS","permalink":"/Project2-ST0263/blog/tags/aws","count":1},{"label":"Project2-ST0263","permalink":"/Project2-ST0263/blog/tags/project-2-st-0263","count":1}]')}}]);

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://egonzalezt.github.io/Project2-ST0263/blog</id>
+    <title>Proyecto2 Telematica Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://egonzalezt.github.io/Project2-ST0263/blog"/>
+    <subtitle>Proyecto2 Telematica Blog</subtitle>
+    <icon>https://egonzalezt.github.io/Project2-ST0263/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://egonzalezt.github.io/Project2-ST0263/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Project Repo]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://github.com/egonzalezt/Project2-ST0263" target="_blank" rel="noopener noreferrer">Project Repo</a></p><h1>About this project</h1><p>The topic or problem context will be to design and implement the BookStore application towards a scalable and robust environment.</p><p><a href="/Project2-ST0263/docs/intro">Visit documentation</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="project-design">Project Design<a class="hash-link" href="#project-design" title="Direct link to heading">​</a></h2><p><img loading="lazy" src="https://user-images.githubusercontent.com/53051438/168496460-32605341-8517-40b0-b1a9-aa1eb8554d5f.png" alt="AWS BOOKSTORE drawio" class="img_E7b_">
+<a href="https://github.com/egonzalezt/Project2-ST0263/blob/c84dcdd31e3d54162a4c61b15bab57bc81ccdead/AWS_Schema/AWS%20BOOKSTORE%20ARCHI.png" target="_blank" rel="noopener noreferrer">High res-image</a></p>]]></content>
+        <author>
+            <name>Esteban Gonzalez Tamayo</name>
+            <uri>https://github.com/egonzalezt</uri>
+        </author>
+        <author>
+            <name>Juan Diego Mejia Vargas</name>
+            <uri>https://github.com/jdmejiav</uri>
+        </author>
+        <author>
+            <name>Luis Angel Jaimes Mora</name>
+            <uri>https://github.com/lajaimesm</uri>
+        </author>
+        <category label="AWS" term="AWS"/>
+        <category label="Project2-ST0263" term="Project2-ST0263"/>
+    </entry>
+</feed>

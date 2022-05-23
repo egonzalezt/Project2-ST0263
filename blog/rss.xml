@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Proyecto2 Telematica Blog</title>
+        <link>https://egonzalezt.github.io/Project2-ST0263/blog</link>
+        <description>Proyecto2 Telematica Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://egonzalezt.github.io/Project2-ST0263/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Project Repo]]></description>
+            <content:encoded><![CDATA[<p><a href="https://github.com/egonzalezt/Project2-ST0263" target="_blank" rel="noopener noreferrer">Project Repo</a></p><h1>About this project</h1><p>The topic or problem context will be to design and implement the BookStore application towards a scalable and robust environment.</p><p><a href="/Project2-ST0263/docs/intro">Visit documentation</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="project-design">Project Design<a class="hash-link" href="#project-design" title="Direct link to heading">​</a></h2><p><img loading="lazy" src="https://user-images.githubusercontent.com/53051438/168496460-32605341-8517-40b0-b1a9-aa1eb8554d5f.png" alt="AWS BOOKSTORE drawio" class="img_E7b_">
+<a href="https://github.com/egonzalezt/Project2-ST0263/blob/c84dcdd31e3d54162a4c61b15bab57bc81ccdead/AWS_Schema/AWS%20BOOKSTORE%20ARCHI.png" target="_blank" rel="noopener noreferrer">High res-image</a></p>]]></content:encoded>
+            <category>AWS</category>
+            <category>Project2-ST0263</category>
+        </item>
+    </channel>
+</rss>
